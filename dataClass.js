@@ -7,4 +7,5 @@ class Request {
       this.response = undefined;
       this.fulfilled = false;
    }
+   
 }
